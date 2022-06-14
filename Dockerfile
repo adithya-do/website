@@ -1,2 +1,2 @@
-FROM hshar/webapp
+FROM docker.io/hshar/webapp:latest
 add . /var/www.html
